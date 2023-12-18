@@ -20,3 +20,8 @@ https://drive.google.com/drive/folders/1DYz_1i-RFb-CQg3CNspubBjRYgT93Cqd?usp=dri
 
 
 # Results
+
+| val_accuracy  | 
+| :-----------: | 
+| 0.9124 |
+ 
