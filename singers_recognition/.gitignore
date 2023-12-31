@@ -1,0 +1,9 @@
+singers_vocal/
+dataset2/
+wav_data2/
+dataset/
+wav_data/
+raw_data/
+data/
+make_dataset.ipynb
+train_singers.ipynb
